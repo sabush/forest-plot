@@ -1,0 +1,12 @@
+add_border              Add border to cells
+add_grob                Add grob in cells
+add_text                Add text to forest plot
+edit_plot               Edit forest plot
+forest                  Forest plot
+forest_theme            Forest plot default theme
+get_wh                  Get widths and height the forestplot
+insert_text             Insert text to forest plot
+make_boxplot            Create horizontal boxplot grob
+make_summary            Create pooled summary diamond shape
+makeci                  Create confidence interval grob
+print.forestplot        Draw plot
